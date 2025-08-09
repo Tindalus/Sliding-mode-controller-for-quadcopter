@@ -7,7 +7,7 @@ This was used to gain results published in [this paper](https://doi.org/10.26160
 `SM_Model.py` central script simulating model's controlled behavior.  
 
 ## Setup  
-**`SM_Controller.py` takes 8 argument:**  
+**`Controller` from `SM_Controller.py` takes 8 argument:**  
 > State (list (12)): Current state of the system.  
 > DesiredState (list (12)): List of desired trajectory coordinates.  
 > Parameters (list (12)): List of controller paremeters.  
