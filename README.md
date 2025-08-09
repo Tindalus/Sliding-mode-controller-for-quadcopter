@@ -1,5 +1,5 @@
 # Sliding-mode-controller-for-quadcopter
-**Controller design and its implementation on quadcopter model.**  
+**Controller design based on sliding mode method and its implementation on quadcopter model.**  
 This was used to gain results published in [this paper](https://doi.org/10.26160/2474-5901-2024-43-42-54).  
    
 `SM_Controller.py` contains control law function that generates input signal for the model in the closed loop system.  
