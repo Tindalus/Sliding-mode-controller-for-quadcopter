@@ -37,7 +37,7 @@ for i in range(N):
     #make circular trajectory
     DesiredState[2,0] = np.sin(i*0.01) 
     DesiredState[4,0] = np.cos(i*0.01)
-...
+    ...
 ```
 this one will give following result:  
 _mind that for these kinds of trajectories `Tstop` must be increased._  
